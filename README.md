@@ -1,12 +1,7 @@
-Aqui está um modelo que você pode usar e editar com suas informações para um perfil no estilo GitHub:
-
-
----
-
-Olá, eu sou o [Seu Nome]! 👋
+Olá, eu sou o Cientista de Dados Guilherme Pires! 👋
 
 🎓 Formação Acadêmica:
-Atualmente cursando [Nome do Curso], com previsão de conclusão em [Mês/Ano]. Além disso, estou cursando [Outro Curso], com conclusão esperada em [Mês/Ano].
+Atualmente cursando Data Science com IA, com previsão de conclusão em 2026 Além disso, estou cursando Python Devoloper para Datascience, com conclusão esperada em 2024.
 
 💻 Especialização:
 Apaixonado por Ciência de Dados e desenvolvimento de habilidades em:
@@ -34,5 +29,4 @@ Transformar dados em insights e soluções práticas, explorando o potencial dos
 
 ---
 
-Esse modelo está estruturado de maneira dinâmica e fácil de editar. Basta substituir os campos entre colchetes ([ ]) com suas informações específicas.
 
